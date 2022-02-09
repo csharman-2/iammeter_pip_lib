@@ -1,0 +1,4 @@
+aiohttp
+voluptuous
+requests
+aioresponses
